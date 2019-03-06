@@ -1,10 +1,10 @@
 # Frameless Certificate Rendering Example Application
 
-This repository is an example of a React Native app (running on (Expo)[https://expo.io/]) to show how to render an OpenCerts file using a webview.
+This repository is an example of a React Native app (running on [Expo](https://expo.io/) to show how to render an OpenCerts file using a webview.
 
 ## Try it out
 
-Download the Expo Client for your ios/android phone at (https://expo.io/tools)[https://expo.io/tools].
+Download the Expo Client for your ios/android phone at [https://expo.io/tools](https://expo.io/tools).
 
 ![QR Code for Expo App](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=exp://exp.host/@whitefables/rn-opencerts)
 
